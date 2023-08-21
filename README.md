@@ -1,6 +1,6 @@
 - 👋 Olá eu sou @AnaCaroline29
 - 👀 Eu estou interessada em aprender programação
-- 🌱 No momento estou aprednedendo VBA
+- 🌱 No momento estou aprendendo VBA
 - 💞️ 
 - 📫 
 
